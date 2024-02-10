@@ -1,0 +1,6 @@
+/Jofikator
+.*.swp
+/_Build
+*.c
+*.oh
+*.o
